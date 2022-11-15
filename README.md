@@ -7,4 +7,4 @@ some Ml algortihms from scratch using numpy and pandas
 4. coefficient of determination (R)
 5. Confusion matrix 
 6. gradient descent 
-
+7. K-mean algoithm using Xlara.csv file
